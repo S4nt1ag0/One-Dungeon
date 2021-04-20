@@ -1,0 +1,17 @@
+Personagem: 
+Cabrita
+Elfo
+F
+300
+10
+14
+10
+10
+12
+10
+10
+Mago
+1
+0
+6
+-40

@@ -1,0 +1,17 @@
+Personagem: 
+Sor Arthur
+Humano
+M
+23
+12
+12
+12
+12
+12
+12
+12
+Guerreiro
+6
+1500
+112
+-8

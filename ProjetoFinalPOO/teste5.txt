@@ -1,0 +1,17 @@
+Personagem: 
+teste5
+Orc
+M
+67
+14
+10
+12
+10
+10
+10
+10
+Guerreiro
+2
+300
+29
+11

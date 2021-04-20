@@ -1,0 +1,17 @@
+Personagem: 
+Alencar
+Elfo
+M
+189
+10
+14
+10
+10
+12
+10
+10
+Arqueiro
+2
+300
+23
+-14

@@ -1,0 +1,17 @@
+Personagem: 
+GAGD
+Humano
+F
+25
+12
+12
+12
+12
+12
+12
+12
+Arqueiro
+1
+0
+9
+9

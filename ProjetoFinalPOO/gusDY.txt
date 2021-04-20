@@ -1,0 +1,17 @@
+Personagem: 
+gusDY
+Orc
+M
+67
+14
+10
+12
+10
+10
+10
+10
+Guerreiro
+1
+0
+11
+-17

@@ -1,0 +1,17 @@
+Personagem: 
+teste1
+Tiefling
+M
+34
+10
+10
+10
+12
+10
+14
+14
+Guerreiro
+2
+300
+29
+-32

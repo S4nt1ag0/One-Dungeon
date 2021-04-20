@@ -1,0 +1,17 @@
+Personagem: 
+Scath
+Tiefling
+F
+25
+10
+10
+10
+12
+10
+14
+14
+Mago
+2
+300
+21
+6

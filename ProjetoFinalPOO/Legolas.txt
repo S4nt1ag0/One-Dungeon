@@ -1,0 +1,17 @@
+Personagem: 
+Legolas
+Elfo
+F
+185
+10
+14
+10
+10
+12
+10
+10
+Guerreiro
+1
+0
+10
+10

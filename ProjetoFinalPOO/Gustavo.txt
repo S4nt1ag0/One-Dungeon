@@ -1,0 +1,17 @@
+Personagem: 
+Gustavo
+Elfo
+M
+189
+10
+14
+10
+10
+12
+10
+10
+Arqueiro
+1
+0
+8
+-5

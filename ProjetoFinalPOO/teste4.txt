@@ -1,0 +1,17 @@
+Personagem: 
+teste4
+Humano
+F
+34
+12
+12
+12
+12
+12
+12
+12
+Guerreiro
+2
+300
+29
+-2

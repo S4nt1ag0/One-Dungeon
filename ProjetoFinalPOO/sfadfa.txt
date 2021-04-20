@@ -1,0 +1,17 @@
+Personagem: 
+sfadfa
+Orc
+F
+45
+14
+10
+12
+10
+10
+10
+10
+Arqueiro
+1
+0
+9
+-6

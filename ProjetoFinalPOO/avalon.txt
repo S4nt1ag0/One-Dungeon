@@ -1,0 +1,17 @@
+Personagem: 
+avalon
+Anão
+M
+57
+12
+10
+14
+10
+10
+10
+10
+Guerreiro
+2
+300
+33
+-97

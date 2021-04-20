@@ -1,0 +1,17 @@
+Personagem: 
+Kemylle
+Elfo
+F
+20
+10
+14
+10
+10
+12
+10
+10
+Mago
+2
+300
+20
+6
