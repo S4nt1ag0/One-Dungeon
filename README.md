@@ -8,17 +8,18 @@ RPG system, with some images (found on google images) and screens made with java
 To login you need to enter the name of the character and his class, if it exists among the files,
 a file with that character name and the corresponding class you will be logged in,
 if there is no algorithm will create a new character at random.Or you can create a new character.
-
-<img width="460" src="./assets/Screenshot02.jpeg">
-
+<p align="center">
+<img height="400" src="./assets/Screenshot02.jpeg">
+</p>
 Within the game, you can fight or run from the monsters (which does not guarantee that you will be able to win the fight or flee)
-
-<img width="460" src="./assets/Screenshot03.jpeg">
-
+<p align="center">
+<img height="400" src="./assets/Screenshot03.jpeg">
+</p
 obtaining the glory
-
-<img width="460" src="./assets/Screenshot04.jpeg">
-
+<p align="center">
+<img height="400" src="./assets/Screenshot04.jpeg">
+</p>
 or ... one more attempt at least
-
-<img width="460" src="./assets/Screenshot05.jpeg">
+<p align="center">
+<img height="400" src="./assets/Screenshot05.jpeg">
+</p>
