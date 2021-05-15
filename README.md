@@ -2,7 +2,7 @@
 
 project developed during the object-oriented programming discipline with IDE NetBeans 8.2 that simulates a text RPG based on the Dungeons & Dragons
 RPG system, with some images (found on google images) and screens made with javaFx. To use just run the project in your IDE of preference
-<div style="display:flex; justify-content:center; align-items:center">
+<div align=”center”>
 <img height="400" src="./assets/Screenshot01.jpeg">
 </div>
 To login you need to enter the name of the character and his class, if it exists among the files,
